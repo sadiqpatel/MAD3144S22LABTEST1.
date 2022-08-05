@@ -1,0 +1,72 @@
+<!DOCTYPE html> 
+  <html>
+  <head>
+<title></title>
+ </head>
+ <style>
+    body {
+      background-image: url('carbg1.jpg');
+    }
+    </style>
+ <body>
+<center>
+    <h1>Mohammed Interests</h1>
+</center>
+
+<table border="5" bordercolor="blue" align="center">
+    <tr>
+        <th colspan="3"><Canvas>Car</Canvas></th> 
+    </tr>
+    <tr>
+        <th>Name</th>
+        <th>Details</th>
+        <th>Image</th>
+    </tr>
+    <tr>
+        <td>Bugatti Veyron Super Sport</th>
+        <td><p>The Bugatti Veyron EB 16.4 is a mid-engine sports car, designed and developed in France by the Volkswagen Group and Bugatti and manufactured in Molsheim, France, by French automobile manufacturer Bugatti. It was named after the racing driver Pierre Veyron.
+
+            <p>The original version has a top speed of 407 km/h (253 mph).[6][7] It was named the 2000s Car of the Decade by the BBC television programme Top Gear. The standard Veyron also won Top Gear's Best Car Driven All Year award in 2005.</p>
+            
+           <p> The Super Sport version of the Veyron is one of the fastest street-legal production cars in the world, with a top speed of 431.072 km/h (267.856 mph).[8] The Veyron Grand Sport Vitesse was the fastest roadster in the world, reaching an averaged top speed of 408.84 km/h (254.04 mph) in a test on 6 April 2013.[9][10]</p>
+            
+        <p>The Veyron's chief designer was Hartmut Warkuß and the exterior was designed by Jozef Kabaň of Volkswagen, with much of the engineering work being conducted under the guidance of chief technical officer Wolfgang Schreiber. The Veyron includes a sound system designed and built by Burmester Audiosysteme.[11]</p>
+            
+            <p>Several special variants have been produced. In December 2010, Bugatti began offering prospective buyers the ability to customise exterior and interior colours by using the Veyron 16.4 Configurator application on the marque's official website.[12][13] The Bugatti Veyron was discontinued in late 2014, but special edition models continued to be produced until 2015.</p></th>
+        <td><img src=".\bg1.jpeg" alt="" border=3 height=100 width=300></img></th>
+    </tr>
+    <tr>
+        <td>SSC Ultimate Aero TT  TopSpeed</th>
+        <td><p>In May 1998, Volkswagen AG acquired the rights to use the Bugatti logo and the trade name Bugatti Automobiles S.A.S. To succeed the EB 110 model produced under the previous ownership, the automaker quickly released a series of concept cars whose technological advancements would culminate in the form of the Veyron 16.4.</p>
+
+           <p> Between October 1998 and September 1999, Bugatti introduced a series of Giugiaro-designed concept vehicles, each with permanent four-wheel drive and powered by the Volkswagen-designed W18 engine. The first car, the EB 118, was a 2-door luxury coupé presented at the 1998 Paris Motor Show. The next car, the EB218, was a 4-door saloon presented at the 1999 Geneva Motor Show. The third and final car, the 18/3 Chiron, was a mid-engine sports car presented at the 1999 International Motor Show in Frankfurt.[14]</p>
+            
+            <p>   In October 1999, Bugatti unveiled a fourth concept car at the Tokyo Motor Show. The EB 18/4 Veyron was a mid-engine sports car styled in-house under the direction of Hartmut Warkuß.[15] In 2000, a modified version, the EB 16/4 Veyron, was displayed at motor shows in Detroit, Geneva, and Paris. Rather than the three-bank W18 engine of the four previous concept cars, the EB 16/4 featured the four-bank W16 engine architecture installed in every production example of the Veyron.[16]</p>
+            
+                <p>  The decision to start production of the car was made by the Volkswagen Group in 2001. The first roadworthy prototype was completed in August 2003. It is identical to the later series variant, except for a few details. In the transition from development to series production, considerable technical problems had to be addressed, repeatedly delaying production until September 2005.[17]</p>
+            
+                    <p>  The Veyron EB 16.4 is named in honor of Pierre Veyron, a Bugatti development engineer, test driver and company race driver who, with co-driver Jean-Pierre Wimille, won the 1939 24 Hours of Le Mans while driving a Bugatti.[18] The "EB" refers to Bugatti founder Ettore Bugatti and the "16.4" refers to the engine's 16 cylinders and quad-turbochargers.[19]</p></th>
+            <td><img src=".\bg2.jpeg" alt="" border=3 height=100 width=300></img></th>
+            </tr>
+    <tr>
+        <td>Koenigsegg CCX</th>
+        <td><p>
+The Veyron features an 8.0-litre, quad-turbocharged, W16 cylinder engine, equivalent to two narrow-angle V8 engines bolted together. Each cylinder has four valves for a total of 64, but the configuration of each bank allows two overhead camshafts to drive two banks of cylinders so only four camshafts are needed. The engine is fed by four turbochargers and displaces 7,993 cc (487.8 cu in), with a square 86 by 86 mm (3.39 by 3.39 in) bore and stroke.
+</p>
+<p>
+Bugatti Veyron 16.4
+</p>
+<p>
+Bugatti Veyron Interior
+</p>
+<p>The transmission is a dual-clutch direct-shift computer-controlled automatic transmission having seven gear ratios, with magnesium paddles behind the steering wheel and a shift time of less than 150 milliseconds, built by Ricardo of England rather than Borg-Warner, who designed the six speed DSG used in the mainstream Volkswagen Group marques. The Veyron can be driven in either semi-automatic or fully-automatic mode. A replacement transmission for the Veyron costs just over US$120,000.[20] It also has permanent all-wheel drive using the Haldex Traction system. It uses special Michelin PAX run-flat tyres, designed specifically to accommodate the Veyron's top speed, and cost US$25,000 per set.[20] The tyres can be mounted on the wheels only in France, a service which costs US$70,000.[20] Kerb weight is 1,888 kg (4,162 lb).[21] This gives the car a power-to-weight ratio, according to Volkswagen Group's figures, of 530 PS (390 kW; 523 hp) per ton. The car's wheelbase is 2,710 mm (106.7 in). Overall length is 4,462 mm (175.7 in) which gives 1,752.6 mm (69.0 in) of overhang. The width is 1,998 mm (78.7 in) and height 1,204 mm (47.4 in). The Bugatti Veyron has a total of ten radiators:[22]
+
+        </p>
+    
+    </th>
+            <td><img src=".\bg3.jpeg" alt="" border=3 height=100 width=300></img></th>
+            </tr>
+</table>
+
+  </body>
+  <html>

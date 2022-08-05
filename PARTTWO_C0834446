@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Lab Test 1 | Activity 2
+        </title>
+    </head>
+    <body>
+        <div id="mytext">
+        </div>
+    </body>
+    <script>
+        const element = document.getElementById("mytext");
+        element.textContent = "Using JavaScript, changing the content to Your Text";
+    </script>
+</html>
